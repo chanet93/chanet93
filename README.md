@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I have been a software developer for more than five years, all these years I have been working with java, so, I consider myself a java lover. I am a good team work because I understand that in order to achieve challenging projects and tasks , you have to work with other people and bring in their skills and experience to you. I am an industrious worker, so will make sure I will take responsibility for my ongoing professional development. I am a fast learner and always pay attention to little details.
+I have been a Java software developer for more than five years. I am a good team worker because I understand that to achieve challenging projects and tasks, you have to work with other people and bring in their skills and experience to you. I am a diligent worker, so I will take responsibility for my ongoing professional development. I am a fast learner and always pay attention to little details.
 
 * 🌍  I'm based in Estados Unidos
 * ✉️  You can contact me at [ycd930518@gmail.com](mailto:ycd930518@gmail.com)
